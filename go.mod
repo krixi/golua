@@ -1,3 +1,3 @@
-module github.com/krixi/golua
+module golua
 
 go 1.15
